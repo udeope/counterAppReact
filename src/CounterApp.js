@@ -41,4 +41,3 @@ CounterApp.propTypes = {
 
 
 export default CounterApp;
-
